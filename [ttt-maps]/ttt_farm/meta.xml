@@ -1,0 +1,9 @@
+<meta>
+    <info type="map" name="ttt_farm" gamemodes="terrortown" author="kaasis" version="1.0.0" />
+    <map src="farm.map" />
+    <settings>
+        <setting name="#time" value="0:0" />
+        <setting name="#weather" value="4" />
+        <setting name="#locked_time" value="true" />
+    </settings>
+</meta>

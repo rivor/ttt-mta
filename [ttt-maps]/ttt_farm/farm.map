@@ -1,0 +1,72 @@
+<map edf:definitions="editor_main">
+    <spawnpoint id="spawnpoint1" posX="-70.8" posY="37.1" posZ="3.1" rotation="284.395" />
+    <spawnpoint id="spawnpoint2" posX="-21.7" posY="93.9" posZ="3.1" rotation="105.995" />
+    <spawnpoint id="spawnpoint3" posX="-87.2" posY="-3" posZ="3.1" rotation="248.001" />
+    <spawnpoint id="spawnpoint4" posX="-92.9" posY="-43.3" posZ="6.5" rotation="348" />
+    <spawnpoint id="spawnpoint5" posX="-85.1" posY="-90.5" posZ="3.1" rotation="26" />
+    <spawnpoint id="spawnpoint6" posX="-37.9" posY="-17.3" posZ="3.1" rotation="62" />
+    <spawnpoint id="spawnpoint7" posX="-10.1" posY="50.2" posZ="3.1" rotation="234" />
+    <spawnpoint id="spawnpoint8" posX="-64.8" posY="104" posZ="3.1" rotation="234" />
+    <spawnpoint id="spawnpoint9" posX="-115" posY="49.6" posZ="3.1" rotation="263.999" />
+    <spawnpoint id="spawnpoint10" posX="-109.4" posY="-36.9" posZ="3.1" rotation="53.999" />
+    <spawnpoint id="spawnpoint11" posX="-159.89999" posY="-94.1" posZ="3.1" rotation="323.999" />
+    <spawnpoint id="spawnpoint12" posX="-95.1" posY="-118.2" posZ="3.1" rotation="16.001" />
+    <spawnpoint id="spawnpoint13" posX="-66.7" posY="-41" posZ="3.1" rotation="63.999" />
+    <spawnpoint id="spawnpoint14" posX="-62.1" posY="10.5" posZ="3.1" rotation="274" />
+    <spawnpoint id="spawnpoint15" posX="-31.4" posY="39.2" posZ="3.1" rotation="202" />
+    <spawnpoint id="spawnpoint16" posX="-62.3" posY="136.60001" posZ="3.1" rotation="192" />
+    <spawnpoint id="spawnpoint17" posX="-73.3" posY="53.9" posZ="3.1" rotation="100" />
+    <spawnpoint id="spawnpoint18" posX="-94.2" posY="8.9" posZ="8.3" rotation="210" />
+    <spawnpoint id="spawnpoint19" posX="-10.9" posY="71.1" posZ="7.8" rotation="88" />
+    <spawnpoint id="spawnpoint20" posX="-20.4" posY="66.9" posZ="7.4" rotation="260" />
+    <spawnpoint id="spawnpoint21" posX="-103" posY="1.2" posZ="8" rotation="296" />
+    <spawnpoint id="spawnpoint22" posX="-15.7" posY="3.9" posZ="3.1" rotation="29.999" />
+    <spawnpoint id="spawnpoint23" posX="-62.2" posY="-14.6" posZ="3.1" rotation="68" />
+    <spawnpoint id="spawnpoint24" posX="-83.6" posY="84.8" posZ="3.1" rotation="77.998" />
+    <spawnpoint id="spawnpoint25" posX="-133.8" posY="-19.6" posZ="3.1" rotation="238" />
+    <spawnpoint id="spawnpoint26" posX="-122" posY="-100.8" posZ="3.1" rotation="18" />
+    <spawnpoint id="spawnpoint27" posX="-107" posY="-68.8" posZ="3.1" rotation="306" />
+    <spawnpoint id="spawnpoint28" posX="-85.2" posY="-34" posZ="3.1" rotation="86" />
+    <spawnpoint id="spawnpoint29" posX="-76.3" posY="-109" posZ="3.1" rotation="15.999" />
+    <spawnpoint id="spawnpoint30" posX="-135.10001" posY="-93.2" posZ="6.5" rotation="274" />
+    <spawnpoint id="spawnpoint31" posX="-97.4" posY="-95.2" posZ="3.1" rotation="214" />
+    <spawnpoint id="spawnpoint32" posX="-44.2" posY="76.2" posZ="3.1" rotation="238.001" />
+    <object id="object (drydock1_SFSe01) (1)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-103.9" posY="104.2" posZ="10" rotX="0" rotY="0" rotZ="250"></object>
+    <object id="object (drydock1_SFSe01) (2)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-111.1" posY="83.3" posZ="10" rotX="0" rotY="0" rotZ="251.999"></object>
+    <object id="object (drydock1_SFSe01) (3)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-117.8" posY="62.6" posZ="10" rotX="0" rotY="0" rotZ="251.999"></object>
+    <object id="object (drydock1_SFSe01) (4)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-124.7" posY="41.1" posZ="10" rotX="0" rotY="0" rotZ="251.999"></object>
+    <object id="object (drydock1_SFSe01) (5)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-132.89999" posY="20.1" posZ="10" rotX="0" rotY="0" rotZ="245.999"></object>
+    <object id="object (drydock1_SFSe01) (6)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-142.2" posY="-0.3" posZ="10" rotX="0" rotY="0" rotZ="245.995"></object>
+    <object id="object (drydock1_SFSe01) (7)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-151.39999" posY="-20.9" posZ="10" rotX="0" rotY="0" rotZ="247.995"></object>
+    <object id="object (drydock1_SFSe01) (8)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-159.3" posY="-42.3" posZ="10" rotX="0" rotY="0" rotZ="249.994"></object>
+    <object id="object (drydock1_SFSe01) (9)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-167.10001" posY="-63.6" posZ="10" rotX="0" rotY="0" rotZ="249.994"></object>
+    <object id="object (drydock1_SFSe01) (10)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-174.10001" posY="-83.4" posZ="10" rotX="0" rotY="0" rotZ="249.994"></object>
+    <object id="object (drydock1_SFSe01) (11)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-176.5" posY="-105.2" posZ="10" rotX="0" rotY="0" rotZ="277.994"></object>
+    <object id="object (drydock1_SFSe01) (12)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-164.7" posY="-120.8" posZ="10" rotX="0" rotY="0" rotZ="335.993"></object>
+    <object id="object (drydock1_SFSe01) (13)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-143.8" posY="-128.60001" posZ="10" rotX="0" rotY="0" rotZ="343.989"></object>
+    <object id="object (drydock1_SFSe01) (14)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-122.6" posY="-134.3" posZ="10" rotX="0" rotY="0" rotZ="345.987"></object>
+    <object id="object (drydock1_SFSe01) (15)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-100.5" posY="-137.90039" posZ="10" rotX="0" rotY="0" rotZ="355.984"></object>
+    <object id="object (drydock1_SFSe01) (16)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-78.4" posY="-139.10001" posZ="10" rotX="0" rotY="0" rotZ="357.985"></object>
+    <object id="object (drydock1_SFSe01) (17)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-60" posY="-131" posZ="10" rotX="0" rotY="0" rotZ="51.984"></object>
+    <object id="object (drydock1_SFSe01) (18)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-50.6" posY="-111.4" posZ="10" rotX="0" rotY="0" rotZ="77.982"></object>
+    <object id="object (drydock1_SFSe01) (19)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-44.7" posY="-90.1" posZ="10" rotX="0" rotY="0" rotZ="71.981"></object>
+    <object id="object (drydock1_SFSe01) (20)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-37.5" posY="-69" posZ="10" rotX="0" rotY="0" rotZ="71.977"></object>
+    <object id="object (drydock1_SFSe01) (21)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-30.1" posY="-48.1" posZ="10" rotX="0" rotY="0" rotZ="69.977"></object>
+    <object id="object (drydock1_SFSe01) (22)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-21.6" posY="-27.6" posZ="10" rotX="0" rotY="0" rotZ="65.972"></object>
+    <object id="object (drydock1_SFSe01) (23)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-11.7" posY="-7.2" posZ="10" rotX="0" rotY="0" rotZ="63.967"></object>
+    <object id="object (drydock1_SFSe01) (24)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-1.7002" posY="13" posZ="10" rotX="0" rotY="0" rotZ="63.957"></object>
+    <object id="object (drydock1_SFSe01) (25)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="8.3" posY="33.2" posZ="10" rotX="0" rotY="0" rotZ="63.962"></object>
+    <object id="object (drydock1_SFSe01) (26)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="16.5" posY="54.2" posZ="10" rotX="0" rotY="0" rotZ="73.962"></object>
+    <object id="object (drydock1_SFSe01) (27)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="20.2" posY="76.2" posZ="10" rotX="0" rotY="0" rotZ="87.96"></object>
+    <object id="object (drydock1_SFSe01) (28)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="15" posY="97.1" posZ="10" rotX="0" rotY="0" rotZ="119.957"></object>
+    <object id="object (drydock1_SFSe01) (29)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="0.2" posY="112.8" posZ="10" rotX="0" rotY="0" rotZ="147.954"></object>
+    <object id="object (drydock1_SFSe01) (30)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-19.1" posY="123.9" posZ="10" rotX="0" rotY="0" rotZ="151.953"></object>
+    <object id="object (drydock1_SFSe01) (31)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-38.7" posY="134.2" posZ="10" rotX="0" rotY="0" rotZ="153.952"></object>
+    <object id="object (drydock1_SFSe01) (32)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-59.7" posY="141.39999" posZ="10" rotX="0" rotY="0" rotZ="167.951"></object>
+    <object id="object (drydock1_SFSe01) (33)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-81.6" posY="141.2" posZ="10" rotX="0" rotY="0" rotZ="193.948"></object>
+    <object id="object (drydock1_SFSe01) (34)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-95.7" posY="128.2" posZ="10" rotX="0" rotY="0" rotZ="251.947"></object>
+    <object id="object (drydock1_SFSe01) (35)" breakable="true" interior="0" collisions="true" alpha="0" model="10841" doublesided="false" scale="0" dimension="0" posX="-99.8" posY="116.6" posZ="10" rotX="0" rotY="0" rotZ="251.944"></object>
+    <object id="object (DEAD_TREE_19) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="847" doublesided="false" scale="1" dimension="0" posX="-114.7" posY="56.4" posZ="4.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (DEAD_TREE_19) (2)" breakable="true" interior="0" collisions="true" alpha="255" model="847" doublesided="false" scale="1" dimension="0" posX="-105.5" posY="83.5" posZ="4.1" rotX="0" rotY="0" rotZ="290"></object>
+    <object id="object (DEAD_TREE_19) (3)" breakable="true" interior="0" collisions="true" alpha="255" model="847" doublesided="false" scale="1" dimension="0" posX="-39.6" posY="81.8" posZ="4.1" rotX="0" rotY="0" rotZ="297.995"></object>
+</map>

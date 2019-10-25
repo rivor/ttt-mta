@@ -1,0 +1,41 @@
+<meta>
+	<info name="terrortown" version="0.1" author="kaasis" description="Trouble in Terrorist Town for MTA" type="gamemode" />
+
+	<min_mta_version client="1.5.7" server="1.5.7" />
+
+	<!-- ! WARNING ! - DO NOT CHANGE ORDER OF THE FILES -->
+
+	<!-- shared -->
+	<script src="config.lua" type="client" cache="false" />
+	<script src="config.lua" type="server" />
+	<script src="scripts/shared.lua" type="client" cache="false" />
+	<script src="scripts/shared.lua" type="server" />
+
+	<!-- scripts > client -->
+	<script src="scripts/client/utils.lua" type="client" cache="false" />
+	<script src="scripts/client/shaderbubble.lua" type="client" cache="false" />
+	<script src="scripts/client/damage.lua" type="client" cache="false" />
+	<script src="scripts/client/controller.lua" type="client" cache="false" />
+	<script src="scripts/client/hud.lua" type="client" cache="false" />
+	<!-- scripts > server -->
+	<script src="scripts/server/utils.lua" type="server" />
+	<script src="scripts/server/account.lua" type="server" />
+	<script src="scripts/server/controller.lua" type="server" />
+	<script src="scripts/server/loadout.lua" type="server" />
+	<script src="scripts/server/karma.lua" type="server" />
+	<script src="scripts/server/mapmanager.lua" type="server" />
+	<script src="scripts/server/chatcommands.lua" type="server" />
+
+	<!-- init scripts -->
+	<script src="cl_init.lua" type="client" cache="false" />
+	<script src="init.lua" type="server" />
+
+	<!-- shaders -->
+	<file src="shaders/mta-helper.fx" />
+	<file src="shaders/ped_shell_layer.fx" />
+
+	<!-- assets -->
+	<file src="assets/fonts/Akrobat-Black.otf" />
+	<file src="assets/images/round.png" />
+	<file src="assets/images/full.png" />
+</meta>
