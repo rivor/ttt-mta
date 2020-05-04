@@ -18,6 +18,7 @@ end
 
 function setPlayerData(ply,data,value,sync)
 	if (sync == nil) then sync = true; end
+	plyData[ply] = {}
 	plyData[ply][data] = value;
 	if (sync) then
 		syncClient(ply,data,value);
